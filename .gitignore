@@ -1,0 +1,6 @@
+.RData
+.Rhistory
+data.sqlite3
+R-*
+output*
+runs
